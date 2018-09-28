@@ -20,7 +20,35 @@
  *          yield
  *          extends
  *          parent
- * 
+ *
+ * 7-2 基础语法及include的使用
+ *      模板中输出变量
+ *      模板中调用PHP代码
+ *      原样输出
+ *      模板中的注释
+ *      引入子视图include的使用
+ *
+ * 7-3 流程控制
+ *      if
+ *      unless
+ *      for
+ *      foreach
+ *
+ * 7-4 模板中URL
+ *      url()
+ *      action()
+ *      route()
+ *
+ *
+ * 8-1 课程总结
+ *      主要知识点
+ *          安装laravel
+ *          核心目录文件
+ *          路由
+ *          MVC
+ *          数据库操作
+ *          模板引擎
+ *
  *
  *
  *
