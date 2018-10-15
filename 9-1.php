@@ -14,6 +14,26 @@
  *
  * 9-2
  *
+ * 9-5 表单验证及数据保持详解
+ *      控制器验证
+ *      Validator
+ *      数据保持
+ *
+ *
+ * 总结
+ *      主要知识点
+ *          Request
+ *          Response
+ *          Session
+ *          Middleware
+ *
+ *      高级篇
+ *          Composer
+ *          Artisan
+ *          数据库迁移和填充
+ *          等高级特性
+ *
+ *
  *
  *
  *
